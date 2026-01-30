@@ -1,0 +1,15 @@
+{
+    "snyk.advanced.organization": "a68bcfc4-b00a-458b-997f-d23d409704f8",
+    "snyk.advanced.autoSelectOrganization": true,
+    "chat.promptFilesRecommendations": {
+        "speckit.constitution": true,
+        "speckit.specify": true,
+        "speckit.plan": true,
+        "speckit.tasks": true,
+        "speckit.implement": true
+    },
+    "chat.tools.terminal.autoApprove": {
+        ".specify/scripts/bash/": true,
+        ".specify/scripts/powershell/": true
+    }
+}
